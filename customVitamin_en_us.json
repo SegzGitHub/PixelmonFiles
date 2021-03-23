@@ -1,0 +1,60 @@
+{
+  "data": {
+    "type": "Spawn",
+    "biomes": [
+      "Ocean"
+    ]
+  },
+  "textures": [
+    {
+      "name": "shopman3.png"
+    },
+    {
+      "name": "spawntrader.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Roshi"
+    },
+    {
+      "name": "Vincent"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "Vitamins!",
+      "goodbye": "Vitamins!"
+    },
+    {
+      "hello": "Hello! I see you are a connoisseur of fine Pokémon ware! I have some rare treasures for sale here.",
+      "goodbye": "It's been a pleasure doing business with you."
+    }
+  ],
+  "items": [
+    {
+      "name": "pixelmon:calcium",
+      "multi": 1.5
+    },
+    {
+      "name": "pixelmon:carbos",
+      "multi": 1.5
+    },
+    {
+      "name": "pixelmon:hp_up",
+      "multi": 1.5
+    },
+    {
+      "name": "pixelmon:iron",
+      "multi": 1.5
+    },
+    {
+      "name": "pixelmon:protein",
+      "multi": 1.5
+    },
+    {
+      "name": "pixelmon:zinc",
+      "multi": 1.5
+    }
+  ]
+}
