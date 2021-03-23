@@ -1,0 +1,80 @@
+{
+  "data": {
+    "type": "Spawn",
+    "biomes": [
+      "Beach"
+    ]
+  },
+  "textures": [
+    {
+      "name": "shoplady3.png"
+    },
+    {
+      "name": "shoplady4.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Mary"
+    },
+    {
+      "name": "Dianne"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "It's hot outside! Want some Nice Cream to cool down?",
+      "goodbye": "Thanks for stopping by!."
+    },
+    {
+      "hello": "Hello! We got plenty of flavors for you to check out.",
+      "goodbye": "It's been a pleasure doing business with you."
+    }
+  ],
+  "items": [
+    {
+      "name": "harvestcraft:icecreamitem",
+      "variation": false
+    },
+    {
+      "name": "harvestcraft:chocolateicecreamitem",
+      "variation": false
+    },
+    {
+      "name": "harvestcraft:mochaicecreamitem",
+      "variation": false
+    },
+    {
+      "name": "harvestcraft:caramelicecreamitem",
+      "variation": false
+    },
+    {
+      "name": "harvestcraft:mintchocolatechipicecreamitem",
+      "variation": false
+    },
+    {
+      "name": "harvestcraft:strawberryicecreamitem",
+      "variation": false
+    },
+    {
+      "name": "harvestcraft:vanillaicecreamitem",
+      "variation": false
+    },
+    {
+      "name": "harvestcraft:cherryicecreamitem",
+      "variation": false
+    },
+    {
+      "name": "harvestcraft:pistachioicecreamitem",
+      "variation": false
+    },
+    {
+      "name": "harvestcraft:neopolitanicecreamitem",
+      "variation": false
+    },
+    {
+      "name": "harvestcraft:spumoniicecreamitem",
+      "variation": false
+    }
+  ]
+}
